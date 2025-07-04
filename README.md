@@ -36,12 +36,13 @@ If the Java version shows 20.0.1 or above, then, the Java runtime environment is
 
 ## 2. Download ferroBotApp
 
-Ferrobotapp download link:
-https://drive.google.com/drive/folders/1MNJ8k1XyMmyf7TKOADrUZuUwkmFdRXeS?usp=sharing
+The ferroBotApp is available in this repository as zip files:
+- **Mac users:** Download `Mac1.zip`
+- **Windows users:** Download `Windows1.zip`
 
 ### 2.1 Run ferroBotApp
 
-Download the zipped folder and unzip it. Do NOT modify any folder contents. Type the following into the terminal:
+Download the appropriate zip file for your platform and unzip it. Do NOT modify any folder contents. Type the following into the terminal:
 
 ```bash
 java -jar --enable-preview ferrobotapp.jar
